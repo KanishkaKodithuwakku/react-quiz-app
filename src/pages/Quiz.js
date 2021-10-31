@@ -231,7 +231,7 @@ function Quiz() {
 
           <div id="header">
             <center>
-              <a className="btn btn-warning" href="/user">
+              <a className="btn btn-warning" href="/">
                 Home
               </a>
             </center>
